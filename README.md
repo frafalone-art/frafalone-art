@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+It's me! Francesco!
+I'm a 15 years old Italian guy, I'm in 10th grade in my scientific high school in Penne.
+I'm really curious and ask myself lots of questions. 
+One of my biggest passions is computer science, I love discovering what's "behind the scenes" and bringing ideas to life. Playing chess
 <!--
 **frafalone-art/frafalone-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
