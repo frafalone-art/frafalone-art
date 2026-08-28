@@ -1,24 +1,33 @@
-## Hi there 👋
-It's me! Francesco!
-I'm a 15 years old Italian guy, I'm in 10th grade in my scientific high school in Penne.
-I'm really curious and ask myself lots of questions, sometimes a good question is the beginning of a good idea. I like to push my limits and challenges, espescially the crazy ones. 
-One of my biggest passions is computer science, I love discovering what's "behind the scenes" and bringing ideas to life. Playing chess I also learnt that sometimes you have to stop and think to find a solution.
-I still don't know much about my future but I'm sure I want to "program" it.
-I'm currently working on landing websites using HTML and CSS for some local customers, Void Raders wich is an arcade remake of Space Invaders, but  the best one by far is FastFixIt!
-I would like to learn cyber security to become a become a better backend developer.
-Currently I'm working with other Italian guys providing technical assistance (or working as a sound artist) and developing landing websites. 
-My stack: Python and FastAPI, HTML, CSS & JS, Flutter & Kivy, technical skills with SQL, C++/C for low-level and Arduino, I work with Linux VMs and my Raspberry Pi.
-<!--
-**frafalone-art/frafalone-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Francesco 👋
 
-Here are some ideas to get you started:
+I'm a 15 years old Italian guy, in 10th grade at a scientific high school.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm really curious and ask myself lots of questions — sometimes a good question is the beginning of a good idea. I like to push my limits and challenges, especially the crazy ones.
+
+One of my biggest passions is computer science — I love discovering what's "behind the scenes" and bringing ideas to life. Playing chess I also learnt that sometimes you have to stop and think to find a solution.
+
+I still don't know much about my future, but I'm sure I want to "program" it.
+
+## 🛠️ Tech Stack ♟️
+
+My stack: Python and FastAPI on the backend, [![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/), HTML, CSS & JS for the web, [![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-563D7C?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/JavaScript-F1E05A?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript), Flutter & Kivy for apps, [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/) [![Kivy](https://img.shields.io/badge/Kivy-141414?style=for-the-badge&logo=python&logoColor=white)](https://kivy.org/) and technical skills with SQL, [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/) C++/C for low-level and Arduino [![C++](https://img.shields.io/badge/C++-F34B7D?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/) [![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)](https://www.iso.org/standard/74528.html) [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/) — like a good chess move ♟️, each piece has its role. And of course, I work with Linux VMs and my Raspberry Pi, [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/) [![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.com/) to keep everything running.
+
+## 🚀 Featured Projects
+
+- **[FastFixIt](#)** — platform with Flutter app and FastAPI/Python backend
+- **[Void Raiders](#)** — arcade remake of Space Invaders
+- **Landing websites** — HTML & CSS sites built for local customers
+
+## 🎯 What I Want to Learn
+
+Cyber Security — to become a better backend developer.
+
+## 📊 Stats
+
+<!-- Replace "frafalone-art" if your username is different -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=frafalone-art&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frafalone-art&layout=compact&theme=radical)
+
+## 📫 Contact
+
+<!-- Add your links here (email, LinkedIn, portfolio...) -->
