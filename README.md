@@ -14,9 +14,9 @@ My stack: [![Python](https://img.shields.io/badge/Python-3572A5?style=flat&logo=
 
 ## 🚀 Featured Projects
 
-- **[FastFixIt](#)** — platform with Flutter app and FastAPI/Python backend
-- **[Void Raiders](#)** — arcade remake of Space Invaders
-- **Landing websites(#)** — HTML & CSS sites built for local customers
+- **[FastFixIt](https://github.com/frafalone-art/FastFixIt-app)** — platform with Flutter app and FastAPI/Python backend
+- **[Void Raiders](https://github.com/frafalone-art/Void-Raders)** — arcade remake of Space Invaders
+- **[Landing websites](https://github.com/frafalone-art/OnePage-Landing-Template)** — HTML & CSS sites built for local customers
 
 ## 🎯 What I Want to Learn
 
@@ -25,8 +25,8 @@ Cyber Security — to become a better backend developer.
 ## 📊 Stats
 
 <!-- Replace "frafalone-art" if your username is different -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=frafalone-art&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frafalone-art&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=frafalone-art&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frafalone-art&layout=compact&theme=radical&count_private=true)
 
 ## 📫 Contact
 
