@@ -1,8 +1,13 @@
 ## Hi there 👋
 It's me! Francesco!
 I'm a 15 years old Italian guy, I'm in 10th grade in my scientific high school in Penne.
-I'm really curious and ask myself lots of questions. 
-One of my biggest passions is computer science, I love discovering what's "behind the scenes" and bringing ideas to life.
+I'm really curious and ask myself lots of questions, sometimes a good question is the beginning of a good idea. I like to push my limits and challenges, espescially the crazy ones. 
+One of my biggest passions is computer science, I love discovering what's "behind the scenes" and bringing ideas to life. Playing chess I also learnt that sometimes you have to stop and think to find a solution.
+I still don't know much about my future but I'm sure I want to "program" it.
+I'm currently working on landing websites using HTML and CSS for some local customers, Void Raders wich is an arcade remake of Space Invaders, but  the best one by far is FastFixIt!
+I would like to learn cyber security to become a become a better backend developer.
+Currently I'm working with other Italian guys providing technical assistance (or working as a sound artist) and developing landing websites. 
+My stack: Python and FastAPI, HTML, CSS & JS, Flutter & Kivy, technical skills with SQL, C++/C for low-level and Arduino, I work with Linux VMs and my Raspberry Pi.
 <!--
 **frafalone-art/frafalone-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
