@@ -24,9 +24,9 @@ Cyber Security — to become a better backend developer.
 
 ## 📊 Stats
 
-<!-- START_SECTION:readme-stats -->
-<!-- END_SECTION:readme-stats -->
-
+<div align="center">
+  <img src="github-metrics.svg" alt="Le mie Statistiche GitHub" width="100%" />
+</div>
 
 ## 📫 Contact
 [![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=flat&logo=itchdotio&logoColor=white)](https://francescofalone.itch.io/)
