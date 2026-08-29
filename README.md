@@ -25,14 +25,12 @@ Cyber Security — to become a better backend developer.
 ## 📊 Stats
 
 <!-- Replace "frafalone-art" if your username is different -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=frafalone-art&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frafalone-art&layout=compact&theme=radical&count_private=true)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=frafalone-art&show_icons=true&theme=radical&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frafalone-art&layout=compact&theme=radical&count_private=true)
 
 ## 📫 Contact
 [![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=flat&logo=itchdotio&logoColor=white)](https://francescofalone.itch.io/)
-
 [![Tinkercad](https://img.shields.io/badge/Tinkercad-1CA6CE?style=flat&logo=autodesk&logoColor=white)]([https://www.tinkercad.com/users/YOUR-USERNAME](https://www.tinkercad.com/users/cchm4xMdiSg-frafalone))
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:frafalone@gmail.com)
  
 <!-- Add your links here (email, LinkedIn, portfolio...) -->
