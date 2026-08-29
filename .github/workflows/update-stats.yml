@@ -10,7 +10,6 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Ora lo script userà il nuovo token globale
           token: ${{ secrets.METRICS_TOKEN }}
 
           user: frafalone-art
@@ -18,16 +17,15 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Rome
           
-          # Includiamo i tuoi repository privati personali e le collaborazioni
           repositories_affiliations: owner, collaborator
 
-          # Configurazione e scansione profonda per far emergere Python, C++ e Dart (Flutter)
+          # NUOVA CONFIGURAZIONE LINGUAGGI COMPLETA DI PERCENTUALI
           plugin_languages: yes
           plugin_languages_sections: most-used
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 10
-          plugin_languages_indepth: yes
-          plugin_languages_analysis_timeout: 60
-          plugin_languages_recent_load: 1000  
-          plugin_languages_recent_days: 30    
+          plugin_languages_details: bytes-size, percentage # Mostra byte e percentuali (%)
+          plugin_languages_limit: 8                        # Mostra fino a 8 linguaggi diversi
+          
+          # Disattiviamo la scansione temporale dei push recenti 
+          # per contare tutto il codice presente nell'intero account:
+          plugin_languages_indepth: no
           plugin_languages_ignored: ""
