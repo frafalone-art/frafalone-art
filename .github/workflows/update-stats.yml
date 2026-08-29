@@ -1,8 +1,6 @@
 name: Metrics
 on:
-  # Si aggiorna automaticamente ogni 12 ore
   schedule: [{cron: "0 */12 * * *"}]
-  # Ti permette di avviarlo a mano
   workflow_dispatch:
 jobs:
   github-metrics:
@@ -12,17 +10,24 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Questo token integrato ora funzionerà perfettamente
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # Ora lo script userà il nuovo token globale
+          token: ${{ secrets.METRICS_TOKEN }}
 
-          # Opzioni grafiche
           user: frafalone-art
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Rome
           
-          # Mostra i linguaggi più usati dettagliati
+          # Includiamo i tuoi repository privati personali e le collaborazioni
+          repositories_affiliations: owner, collaborator
+
+          # Configurazione e scansione profonda per far emergere Python, C++ e Dart (Flutter)
           plugin_languages: yes
-          plugin_languages_ignored: html, css
+          plugin_languages_sections: most-used
           plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 8
+          plugin_languages_limit: 10
+          plugin_languages_indepth: yes
+          plugin_languages_analysis_timeout: 60
+          plugin_languages_recent_load: 1000  
+          plugin_languages_recent_days: 30    
+          plugin_languages_ignored: ""
