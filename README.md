@@ -24,6 +24,7 @@ Cyber Security — to become a better backend developer.
 
 ## 📊 Stats
 
+ <img src="https://githubcard.com" alt="GitHub Profile Card" height="180" />
 <img src="https://vercel.app" alt="GitHub stats" height="180" />
   <img src="https://vercel.app" alt="Top Langs" height="180" />
 
