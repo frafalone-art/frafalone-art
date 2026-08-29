@@ -14,18 +14,13 @@ jobs:
 
           user: frafalone-art
           template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Rome
           
-          repositories_affiliations: owner, collaborator
-
-          # NUOVA CONFIGURAZIONE LINGUAGGI COMPLETA DI PERCENTUALI
+          # Disattiviamo la sezione base e teniamo solo l'estensione dei linguaggi
+          base: ""
+          
+          # Configuriamo il calcolo totale dei linguaggi basato sui repository, non sui push
           plugin_languages: yes
           plugin_languages_sections: most-used
-          plugin_languages_details: bytes-size, percentage # Mostra byte e percentuali (%)
-          plugin_languages_limit: 8                        # Mostra fino a 8 linguaggi diversi
-          
-          # Disattiviamo la scansione temporale dei push recenti 
-          # per contare tutto il codice presente nell'intero account:
-          plugin_languages_indepth: no
-          plugin_languages_ignored: ""
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          repositories_affiliations: owner, collaborator
