@@ -25,8 +25,10 @@ Cyber Security — to become a better backend developer.
 ## 📊 Stats
 
 <!-- Replace "frafalone-art" if your username is different -->
-[![GitHub stats]](https://github-readme-stats.vercel.app/api?username=frafalone-art&show_icons=true&theme=radical&count_private=true)
-[![Top Langs]](https://github-readme-stats.vercel.app/api/top-langs/?username=frafalone-art&layout=compact&theme=radical&count_private=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=frafalone-art&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frafalone-art&layout=compact&theme=radical&count_private=true" alt="Top Langs" height="180" />
+</div>
 
 ## 📫 Contact
 [![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=flat&logo=itchdotio&logoColor=white)](https://francescofalone.itch.io/)
