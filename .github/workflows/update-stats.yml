@@ -1,19 +1,28 @@
-name: Update README Stats
-
+name: Metrics
 on:
-  schedule:
-    - cron: '0 0 * * *'
+  # Si aggiorna automaticamente ogni 12 ore
+  schedule: [{cron: "0 */12 * * *"}]
+  # Ti permette di avviarlo a mano
   workflow_dispatch:
-
 jobs:
-  update:
+  github-metrics:
     runs-on: ubuntu-latest
-    # Forza GitHub a concedere i permessi di scrittura a questo specifico script:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
-      - uses: thanhhaudev/github-stats@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SHOW_METRICS: "LANGUAGE_PER_REPO, COMMIT_TIMES_OF_DAY, COMMIT_DAYS_OF_WEEK"
+      - uses: lowlighter/metrics@latest
+        with:
+          # Questo token integrato ora funzionerà perfettamente
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Opzioni grafiche
+          user: frafalone-art
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Rome
+          
+          # Mostra i linguaggi più usati dettagliati
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
