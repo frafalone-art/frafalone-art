@@ -2,8 +2,8 @@ name: Update README Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Si aggiorna da solo ogni notte a mezzanotte
-  workflow_dispatch: # Ti permette di avviarlo a mano quando vuoi
+    - cron: '0 0 * * *' # Si aggiorna automaticamente ogni notte a mezzanotte
+  workflow_dispatch: # Ti permette di avviarlo manualmente quando vuoi
 
 jobs:
   update:
@@ -15,4 +15,5 @@ jobs:
       - uses: thanhhaudev/github-stats@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SHOW_METRICS: "COMMITS,PAD,LANGUAGES"
+          # Abbiamo inserito i valori corretti richiesti dal sistema:
+          SHOW_METRICS: "LANGUAGE_PER_REPO, COMMIT_TIMES_OF_DAY, COMMIT_DAYS_OF_WEEK"
