@@ -24,9 +24,9 @@ Cyber Security — to become a better backend developer.
 
 ## 📊 Stats
 
- <img src="https://githubcard.com" alt="GitHub Profile Card" height="180" />
-<img src="https://vercel.app" alt="GitHub stats" height="180" />
-  <img src="https://vercel.app" alt="Top Langs" height="180" />
+<!-- START_SECTION:readme-stats -->
+<!-- END_SECTION:readme-stats -->
+
 
 ## 📫 Contact
 [![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=flat&logo=itchdotio&logoColor=white)](https://francescofalone.itch.io/)
