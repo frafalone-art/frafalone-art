@@ -30,7 +30,7 @@ Cyber Security — to become a better backend developer.
 
 ## 📫 Contact
 [![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=flat&logo=itchdotio&logoColor=white)](https://francescofalone.itch.io/)
-[![Tinkercad](https://img.shields.io/badge/Tinkercad-1CA6CE?style=flat&logo=tinkercad&logoColor=white)](https://www.tinkercad.com/users/cchm4xMdiSg-frafalone))
+[![Tinkercad](https://img.shields.io/badge/Tinkercad-1CA6CE?style=flat&logo=tinkercad&logoColor=white)](https://www.tinkercad.com/users/cchm4xMdiSg-frafalone)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:frafalone@gmail.com)
  
 <!-- Add your links here (email, LinkedIn, portfolio...) -->
